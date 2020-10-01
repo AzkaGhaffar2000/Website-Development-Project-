@@ -16,9 +16,15 @@ Full Stack Development of an Event Scheduling Website with following functionali
 8. Back end development languages: SQL and PHP 
 
 --------------------------------------------------------------------------
-Admin Credentials 
+Admin Credentials
+
 username: admin 
+
 password: 123 
-Organizer Crednetials 
+
+Organizer Credentials 
+
 username: organizer 
+
 password: abc 
+
